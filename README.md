@@ -10,3 +10,4 @@
 | Stochastic gradient descent in Neural network                 | [SGD](https://github.com/Shobhit-Mishra-02/AI-ML-repo/blob/main/Stochastic%20gradient%20descent%20.ipynb)                                                  |
 | Outlier detection                                             | [outlier_detection](https://github.com/Shobhit-Mishra-02/AI-ML-repo/blob/main/outlier%20detection.ipynb)                                                   |
 | Churn dataset prediction in ANN                               | [churn_prediction](https://github.com/Shobhit-Mishra-02/AI-ML-repo/blob/main/Churn%20dataset%20prediction.ipynb)                                           |
+| Convolution Neural Network                                    | [CNN](https://github.com/Shobhit-Mishra-02/AI-ML-repo/blob/main/Convolution%20neural%20network.ipynb)                                                      |
